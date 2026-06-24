@@ -8,6 +8,13 @@ Las buenas prácticas ayudan a evitar errores comunes, reducir conflictos entre 
 
 Un commit representa un cambio específico dentro del proyecto. Por esta razón, cada commit debe ser claro, pequeño y relacionado con una sola tarea.
 
+## Buenas prácticas para mensajes de commit
+Un mensaje de commit debe ser breve, claro y descriptivo. Debe explicar qué se hizo y, cuando sea necesario, por qué se hizo.
+Ejemplos de mensajes adecuados:
+- Agrega documentación inicial del módulo de usuarios.
+- Corrige descripción del flujo de evaluaciones.
+- Actualiza guía de instalación local.
+
 ### Recomendaciones
 
 - Realizar commits por tareas específicas.
