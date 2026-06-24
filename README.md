@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-EduCampus LMS es una plataforma educativa diseñada para apoyar la gestión académica de una institución. Permite organizar cursos, usuarios, evaluaciones, calificaciones y reportes académicos en un entorno centralizado.
+EduCampus LMS es una plataforma académica diseñada para centralizar la gestión institucional, los cursos y los procesos de evaluación.
 
 Este repositorio contiene la documentación inicial del proyecto, organizada para facilitar el trabajo colaborativo y el uso de Git como herramienta de control de versiones.
 
@@ -37,6 +37,9 @@ El proyecto se encuentra en etapa inicial de documentación. Actualmente se est�
 ## Reglas generales del proyecto
 
 1. Todo cambio debe realizarse en una rama independiente.
+
 2. Todo aporte debe ser revisado antes de integrarse.
+
 3. Los mensajes de commit deben ser claros y descriptivos.
+
 4. Los conflictos deben resolverse de forma consciente.
